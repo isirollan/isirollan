@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isirollan
 - 👀 I’m interested in Enduro Mountainbiking and art
-- 🌱 I’m currently learning how to code in desktop
+- 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on my team understanding what they do
 - 📫 How to reach me isirollan@gmail.com
 
