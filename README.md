@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isirollan
 - 👀 I’m interested in Enduro Mountainbiking and art
-- 🌱 I’m currently learning how to code
+- 🌱 I know how to code in python, HTML, CSS, JavaScript and React JS
 - 💞️ I’m looking to collaborate on my team understanding what they do
 - 📫 How to reach me isirollan@gmail.com
 
